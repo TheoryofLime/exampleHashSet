@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\bin\Debug\net6.0\exampleHashSet.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\bin\Debug\net6.0\exampleHashSet.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\bin\Debug\net6.0\exampleHashSet.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\bin\Debug\net6.0\exampleHashSet.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\bin\Debug\net6.0\exampleHashSet.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\exampleHashSet.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\exampleHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\exampleHashSet.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\exampleHashSet.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\exampleHashSet.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\exampleHashSet.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\refint\exampleHashSet.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\exampleHashSet.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\exampleHashSet.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleHashSet\exampleHashSet\obj\Debug\net6.0\ref\exampleHashSet.dll
